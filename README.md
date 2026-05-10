@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing Goodreads books data to uncover reading trends, genre popularity, and reader rating behavior.
 
----
+--------------------------------------------------------------------------------------------------
 
 # 📌 Project Overview
 
@@ -15,7 +15,7 @@ The dashboard provides insights into:
 - Highly recommended books
 - Genre performance comparison
 
----
+--------------------------------------------------------------------------------------------------
 
 # 🎯 Project Goals
 
@@ -25,7 +25,7 @@ The dashboard provides insights into:
 - Understand rating distribution from 1⭐ to 5⭐
 - Compare genre performance based on ratings
 
----
+--------------------------------------------------------------------------------------------------
 
 # 🛠️ Tools Used
 
@@ -35,7 +35,7 @@ The dashboard provides insights into:
 - Data Cleaning
 - Data Visualization
 
----
+--------------------------------------------------------------------------------------------------
 
 # 📂 Dashboard Features
 
@@ -50,7 +50,7 @@ Explores the most popular and highest-rated book genres.
 ### Key Insight:
 Some genres consistently receive higher ratings regardless of publishing trends.
 
----
+--------------------------------------------------------------------------------------------------
 
 ## ⭐ Rating Analysis
 Analyzes how readers rate books over time.
@@ -63,7 +63,7 @@ Analyzes how readers rate books over time.
 ### Key Insight:
 Reader ratings remain relatively stable over time even as the number of published books changes.
 
----
+--------------------------------------------------------------------------------------------------
 
 ## 📈 Publishing Trends
 Tracks book publishing activity across years.
@@ -76,7 +76,7 @@ Tracks book publishing activity across years.
 ### Key Insight:
 The number of books published changes significantly over time while average ratings remain consistent.
 
----
+--------------------------------------------------------------------------------------------------
 
 ## 🏆 Top Recommended Books
 Highlights the best-performing and most recommended books.
@@ -86,15 +86,14 @@ Highlights the best-performing and most recommended books.
 - Most recommended titles
 - Reader favorites
 
----
+--------------------------------------------------------------------------------------------------
 
 # 📷 Dashboard Preview
 
 ![Books Dashboard](screenshots/first_image.png)
 ![Books Dashboard](screenshots/second_image.png)
 
----
-
+--------------------------------------------------------------------------------------------------
 # 📊 Key Insights
 
 - Reader ratings stay relatively stable over time
@@ -102,14 +101,10 @@ Highlights the best-performing and most recommended books.
 - Some genres consistently achieve higher ratings
 - Popular genres attract more reader engagement
 
----
+--------------------------------------------------------------------------------------------------
 
-# 🚀 Author
 
+By
 Mohamed Ashraf  
 Data Analyst | Power BI Enthusiast
 
----
-
-## 🌿 Remember Allah  
-وصلي على النبي ﷺ ❤️
